@@ -35,3 +35,4 @@ _filelist.txt
 
 # Endee local DB files for the demo app (large / machine-specific)
 project-RAG/endee-data/
+_filelist.txt

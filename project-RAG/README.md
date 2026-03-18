@@ -1,4 +1,12 @@
-#
+## 📺 Demo Video
+
+<div align="center">
+
+[![PDF RAG Chatbot Demo](https://img.youtube.com/vi/ZS1HNd24wXg/maxresdefault.jpg)](https://youtu.be/ZS1HNd24wXg?si=xeH8KLaWql7idpQW)
+
+**🎬 [Watch Full Demo on YouTube](https://youtu.be/ZS1HNd24wXg?si=xeH8KLaWql7idpQW)**
+
+</div>
 
 ---
 
