@@ -1,0 +1,8 @@
+streamlit
+sentence-transformers
+groq
+requests
+numpy
+python-dotenv
+msgpack
+pypdf
